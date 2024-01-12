@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, Everyone!</h1>
 <div>
-<img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=jeffreyren1">
+<img align="left" height="150" width="300" src="https://github-readme-stats.vercel.app/api?username=jeffreyren1">
 
 <a href="https://github.com/jeffreyren1">
-  <img align="center" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreyren1&layout=compact&langs_count=8" />
+  <img align="center" height="150" width="300"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreyren1&layout=compact&langs_count=8" />
 </a>
 
 <img align="right" height="150" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
