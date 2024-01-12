@@ -50,4 +50,4 @@ Welcome to my GitHub homepage! I'm a passionate graduate student who loves both 
 <br>
 
 ---
-<div align="center"><img src="https://raw.githubusercontent.com/jeffreyren1/jeffreyren1/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/jeffreyren1/jeffreyren1/dist/github-contribution-grid-snake.svg" ></div>
