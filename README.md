@@ -1,10 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, Everyone!</h1>
+<div>
+<img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=jeffreyren1">
 
-<img align="right" width="330" height="220" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
+<a href="https://github.com/jeffreyren1">
+  <img align="center" height="150"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffreyren1&layout=compact&langs_count=8" />
+</a>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=jeffreyren1&show_icons=true&hide_border=true">
+<img align="right" height="150" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" />
+<div>
 
-<a href="https://github.com/jeffreytse">
+
+
+<br>
+<a href="https://github.com/jeffreyren1">
 <img src="https://img.shields.io/badge/platform-windows%20%7C%20linux-green"
 alt="Platform: windows | linux" />
 <a/>
@@ -50,4 +58,4 @@ Welcome to my GitHub homepage! I'm a passionate graduate student who loves both 
 <br>
 
 ---
-<div align="center"><img src="https://raw.githubusercontent.com/jeffreyren1/jeffreyren1/dist/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://github.com/jeffreyren1/Jeffreyren1/blob/output/github-contribution-grid-snake.svg" ></div>
