@@ -30,7 +30,7 @@ alt="Visitor" />
 Welcome to my GitHub homepage! I'm a passionate graduate student who loves both technology and life. Currently, my focus is on integrated photonics, and I dedicate my time to exploring the fascinating field. Apart from my academic pursuits, I am an avid self-learner in programming  technical domains. Let's connect and exchange ideas and insights!
 
 - 🔭 I’m currently studying in China
-- 🌱 I’m currently learning **Integrated Photonics**
+- 🌱 I’m currently learning **Integrated Photonics** & **Python**
 - 😄 Welcome to discuss with me about anything!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="220" title="Do what you like, and do it best!"> 
