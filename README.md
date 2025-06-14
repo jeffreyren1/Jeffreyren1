@@ -18,7 +18,7 @@ alt="Platform: windows | linux" />
 <a/>
 
 <a href="https://github.com/jeffreyren1">
-<img src="https://komarev.com/ghpvc/?username=Jeffreyren1&color=green"
+<img src="https://komarev.com/ghpvc/?username=Jeffreyren1&color=orange"
 alt="Visitor" />
 <a/>
 
